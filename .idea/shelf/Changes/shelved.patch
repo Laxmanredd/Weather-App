@@ -1,0 +1,13 @@
+Index: gradle/wrapper/gradle-wrapper.properties
+===================================================================
+diff --git a/gradle/wrapper/gradle-wrapper.properties b/gradle/wrapper/gradle-wrapper.properties
+deleted file mode 100644
+--- a/gradle/wrapper/gradle-wrapper.properties	(revision 198b26f82b6ef44d53eb80514b18a6c2e02eb5a8)
++++ /dev/null	(revision 198b26f82b6ef44d53eb80514b18a6c2e02eb5a8)
+@@ -1,6 +0,0 @@
+-#Thu Jan 23 09:45:19 IST 2025
+-distributionBase=GRADLE_USER_HOME
+-distributionPath=wrapper/dists
+-distributionUrl=https\://services.gradle.org/distributions/gradle-8.9-bin.zip
+-zipStoreBase=GRADLE_USER_HOME
+-zipStorePath=wrapper/dists
